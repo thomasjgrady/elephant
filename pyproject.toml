@@ -1,0 +1,11 @@
+[project]
+name = "elephant"
+description = "Modern Hopfield networks in PyTorch"
+version = "0.1.0"
+authors = [
+    { name = "Thomas Grady", email = "thomasjgrady2@gmail.com" }
+]
+dependencies = [
+    "torch>=2.0.0",
+    "numpy"
+]
